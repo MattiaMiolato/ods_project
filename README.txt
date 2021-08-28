@@ -1,4 +1,4 @@
-This project was create in the context of an university assigment. We were asked to study and compare different algorithm in order to perform adversarial attack on a neural network.
+This project was created in the context of an university assigment. We were asked to study and compare different algorithm in order to perform adversarial attack on a neural network.
 
 
 - preliminaries 	file to execute in order to have the right set up
