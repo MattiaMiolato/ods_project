@@ -1,3 +1,6 @@
+This project was create in the context of an university assigment. We were asked to study and compare different algorithm in order to perform adversarial attack on a neural network.
+
+
 - preliminaries 	file to execute in order to have the right set up
 - Algo2 		implementation of stochastic FW based attack
 - Det_FW		implementation of deterministic zeroth order FW
